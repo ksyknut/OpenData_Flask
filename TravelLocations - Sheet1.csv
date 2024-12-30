@@ -1,0 +1,54 @@
+sc_name,en_name,tc_name,adress,Latitude,Longitude,historial,shopping,literature_art
+星光大道,Avenue of Stars,星光大道,"Ave of Stars, Tsim Sha Tsui",22.2944488,114.1760595,FALSE,FALSE,FALSE
+前九广铁路钟楼,Former Kowloon-Canton Railway Clock Tower,前九廣鐵路鐘樓,"10 Salisbury Rd, Tsim Sha Tsui",22.2937034,114.1709787,FALSE,FALSE,FALSE
+金紫荆广场,Golden Bauhinia Square,金紫荊廣場,"1 Expo Dr, Wan Chai",22.2833754,114.1731385,FALSE,FALSE,FALSE
+香港迪士尼乐园,Hong Kong Disneyland,香港迪士尼樂園,Hong Kong Disneyland,22.2664984,113.941751,FALSE,FALSE,FALSE
+女人街,women's street,女人街,"Tung Choi St, Mong Kok",22.3210731,114.1701978,FALSE,TRUE,FALSE
+兰桂坊,Lan Kwai Fong,蘭桂坊,"1 Lan Kwai Fong, Central",22.2809846,114.1556541,FALSE,FALSE,FALSE
+香港海洋公园,Hong Kong Ocean Park,香港海洋公園,Hong KongOcean Park,22.2346359,114.1721746,FALSE,FALSE,FALSE
+庙街夜市,Temple Street Night Market,廟街夜市,Yau Ma Tei,22.3068537,114.1714423,FALSE,TRUE,FALSE
+尖沙咀海滨花园,Tsim Sha Tsui Promenade Gardens,尖沙咀海濱花園,Tsim Sha Tsui East,22.2988123,114.1721746,FALSE,FALSE,FALSE
+盐田梓,yantianzi,鹽田梓,鹽田梓,22.3833333,114.3,FALSE,FALSE,FALSE
+西贡市,Saigon City,西貢市,Sai Kung,22.383689,114.2707867,FALSE,FALSE,FALSE
+香港文化中心,Hong Kong Cultural Center,香港文化中心,"Hong Kong Cultural Centre, L5, Auditoria Building, 10 Salisbury Rd, Tsim Sha Tsui",22.2938496,114.1703232,TRUE,FALSE,TRUE
+K11人文购物艺术馆,K11 Humanity Shopping Art Museum,K11人文購物藝術館,"18號, Salisbury Rd, Tsim Sha Tsui",22.2934362,114.1739346,FALSE,TRUE,TRUE
+香港科学馆,Hong Kong Science Museum,香港科學館,"2號 Science Museum Rd, Tsim Sha Tsui East",22.3010096,114.1775685,FALSE,FALSE,FALSE
+香港历史博物馆,Hong Kong Museum of History,香港歷史博物館,"100 Chatham Rd S, Tsim Sha Tsui",22.3018982,114.1774079,FALSE,FALSE,FALSE
+中环广场,Central Plaza,中環廣場,"18 Harbour Rd, Wan Chai",22.2799515,114.1736754,FALSE,FALSE,FALSE
+香港艺术中心,Hong Kong Arts Center,香港藝術中心,"2 Harbour Rd, Wan Chai",22.2801768,114.1708271,FALSE,FALSE,TRUE
+蓝屋,blue house,藍屋,"Wan Chai, Stone Nullah Ln, 72A 號街 4 號地舖地舖及慶雲",22.2739705,114.174106,TRUE,FALSE,FALSE
+香港会议展览中心,Hong Kong Convention and Exhibition Center,香港會議展覽中心,"1號 Expo Dr, Wan Chai",22.2833754,114.1731385,FALSE,FALSE,FALSE
+中西区海滨长廊 - 中环段,Central and Western District Promenade - Central Section,中西區海濱長廊 - 中環段,"Lung Wo Rd, Central",22.2826099,114.1643507,FALSE,FALSE,FALSE
+香港摩天轮,Hong Kong Ferris wheel,香港摩天轮,"33 Man Kwong St, Central",22.2852859,114.1617221,FALSE,FALSE,FALSE
+大馆,Odate,大館,"Tai Kwun, 10 Hollywood Rd, Central",22.2811686,114.154023,TRUE,TRUE,TRUE
+香港医学博物馆,Hong Kong Museum of Medicine,香港醫學博物館,"2號 Caine Ln, Sheung Wan",22.2834638,114.1486266,TRUE,FALSE,FALSE
+添马舰,tamar,添馬艦,"Cross Harbour Tunnel To Victoria Park Rd, Admiralty",22.2918821,114.1819044,FALSE,FALSE,FALSE
+西九文化区,West Kowloon Cultural District,西九文化區,"九文化區管理局大樓, 8號, 西九文化區, Austin Rd W, West Kowloon",22.300235,114.1559127,FALSE,TRUE,TRUE
+香港故宫文化博物馆,Hong Kong Palace Museum,香港故宮文化博物館,"8 Museum Drive West Kowloon, Tsim Sha Tsui",22.3007964,114.1569737,TRUE,FALSE,FALSE
+中号+,M+,M+,"38 Museum Dr, West Kowloon",22.3004291,114.1590288,TRUE,TRUE,TRUE
+香港文物探知馆,Hong Kong Heritage Discovery Center,香港文物探知館,"Haiphong Road Kowloon Park, Tsim Sha Tsui",22.3003928,114.1707929,TRUE,FALSE,FALSE
+APＭ,APＭ,APＭ,"418 Kwun Tong Rd, Kwun Tong",22.312401,114.225222,FALSE,TRUE,FALSE
+超级盒子,MegaBox,MegaBox,"V, Enterprise Square, 38 Wang Chiu Rd, Kowloon Bay",22.319791,114.2084977,FALSE,TRUE,FALSE
+跑马地马场,Happy Valley Racecourse,跑馬地馬場,"3/F, Members Stand II, Happy Valley Racecourse, Wong Nai Chung Rd, Happy Valley",22.2718214,114.1806169,FALSE,FALSE,FALSE
+域多利监狱旧址,Victoria Prison Site,域多利監獄舊址,"11 Chancery Ln, Central",22.280788,114.1533575,TRUE,FALSE,FALSE
+赛马会艺方,Jockey Club Arts,賽馬會藝方,"Tai Kwun, 10 Hollywood Rd, Central",22.2811686,114.154023,FALSE,FALSE,FALSE
+山顶凌霄阁,Peak Tower,山頂凌霄閣,"1 Lugard Rd, The Peak",22.2714708,114.1493465,FALSE,FALSE,FALSE
+香港公园,Hong Kong Park,香港公園,"19號 Cotton Tree Dr, Central",22.2769477,114.1608187,FALSE,FALSE,FALSE
+哈里胜户公园,Hari Katsudo Park,荷李活道公園,"Hollywood Rd, Sheung Wan",22.285373,114.1486088,FALSE,FALSE,FALSE
+中环街市,Central Market,中環街市,"93 Queen's Road Central, Central",22.283944,114.1555478,FALSE,TRUE,FALSE
+置地广场,Landmark,置地廣場,"15 Queen's Road Central, Central",22.280545,114.157903,FALSE,TRUE,FALSE
+国际金融中心商场,ifc mall,國際金融中心商場,"8 Finance St, Central",22.2855245,114.1592391,FALSE,TRUE,FALSE
+信德中心购物中心,Shun Tak Center Shopping Center,信德中心購物中心,"Shun Tak Centre, 168-200 Connaught Rd Central, Sheung Wan",22.2879098,114.1517914,FALSE,TRUE,FALSE
+苏豪广场,Soho Square,Soho Square,"21A, 21B Lyndhurst Terrace, Central",22.2826147,114.1541399,FALSE,TRUE,FALSE
+圆方,Yuanfang,圓方,"1 Austin Rd W, Tsim Sha Tsui",22.3031749,114.1684206,FALSE,TRUE,FALSE
+罗戈博,Rogobo,朗豪坊,"8 Argyle St, Mong Kok",22.3179137,114.1687442,FALSE,TRUE,FALSE
+新世纪广场,New Century Plaza,新世紀廣場,"193 Prince Edward Rd W, Mong Kok",22.323,114.171981,FALSE,TRUE,FALSE
+独一者,The ONE,The ONE,"100號 Nathan Rd, Tsim Sha Tsui",22.2998217,114.1726855,FALSE,TRUE,FALSE
+黄埔天地,Huangpu World,黃埔天地,"6 Shung King St, Hung Hom",22.305621,114.1898232,FALSE,TRUE,FALSE
+黄金电脑商场,Golden Computer Mall,黃金電腦商場,"Fuk Wa St, 黃金大廈146-152號",22.3319978,114.1618799,FALSE,TRUE,FALSE
+美丽华广场,Miramar Plaza,美麗華廣場,"132 Nathan Rd, Tsim Sha Tsui",22.3006559,114.1721209,FALSE,TRUE,FALSE
+旺角新之城,Mong Kok New City,旺角新之城,"65號 Argyle St, Mong Kok",22.3195251,114.1705761,FALSE,TRUE,FALSE
+三木,Miki,Mikiki,"638 Prince Edward Rd E, San Po Kong",22.3337412,114.1971587,FALSE,TRUE,FALSE
+始创中心,Startup Center,始創中心,"750號 Nathan Rd, Prince Edward",22.3337412,114.1971587,FALSE,TRUE,FALSE
+九龙公园,Kowloon Park,九龍公園,"22 Austin Rd, Tsim Sha Tsui",22.3219509,114.168971,FALSE,FALSE,FALSE
+中电钟楼文化馆,CLP Bell Tower Cultural Center,中電鐘樓文化館,"147號 Argyle St, Kadoorie Hill",22.3026138,114.1710658,FALSE,FALSE,TRUE
